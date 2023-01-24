@@ -1,0 +1,187 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  color:#6c6b6b;
+}
+
+a {
+  text-decoration:none;
+}
+
+header {
+  width:90%;
+  padding:0 0;
+  margin:20px auto;
+  text-align:center;
+}
+
+ header .heading {
+   font-size:32px;
+ }
+
+.nav-list {
+  text-align:center;
+  /*padding:20px 0;*/
+  margin: 20px 0;
+  border:solid black;
+  border-top-width:1px;
+  border-bottom-width:1px;
+  border-right-width:0px;
+  border-left-width:0px;
+}
+
+.nav-list-item {
+  list-style: none;
+  display:inline-block;
+  margin:15px 20px;
+}
+
+/*.main-visual {*/
+/*  width:100%;*/
+/*  height:300px;*/
+/*}*/
+
+/*.main-visual-content {*/
+/*  width:350px;*/
+/*  height:300px;*/
+/*}*/
+
+/*.main {*/
+/*    width:840px;*/
+    /*height:1400px;*/
+    /*background-color:green;*/
+/*    display:flex;*/
+/*    justify-content:center;*/
+/*    margin:0 auto;*/
+/*}*/
+
+/*.blog {*/
+/*  width:600px;*/
+/*  height:1400px;*/
+/*}*/
+
+/*.sidebar {*/
+/*  width:240px;*/
+/*  height:1400px;*/
+/*}*/
+
+.main {
+  width:800px;
+  margin:50px auto 0px;
+  display:flex;
+  justify-content:center;
+
+}
+
+.main2 {
+  width:800px;
+  margin:0px auto;
+  display:flex;
+  justify-content:center;
+
+}
+
+.main3 {
+  width:800px;
+  margin:0px auto 50px;
+  display:flex;
+  justify-content:center;
+
+}
+
+
+main .box1{
+  width:200px;
+  height:200px;
+  background-color:#e6ffe9;
+
+}
+
+main .box2{
+  width:200px;
+  height:200px;
+  background-color:#cbffd3;
+
+}
+
+main .box3{
+  width:200px;
+  height:200px;
+  background-color:#aeffbd;
+
+}
+
+main .box4{
+  width:200px;
+  height:200px;
+  background-color:#93ffab;
+
+}
+
+main .box5{
+  width:200px;
+  height:200px;
+  background-color:#f3ffd8;
+
+}
+
+main .box6{
+  width:200px;
+  height:200px;
+  background-color:#edffbe;
+
+}
+
+main .box7{
+  width:200px;
+  height:200px;
+  background-color:#e9ffa5;
+
+}
+
+main .box8{
+  width:200px;
+  height:200px;
+  background-color:#e4ff8d;
+
+}
+
+main .box9{
+  width:200px;
+  height:200px;
+  background-color:#d9e5ff;
+
+}
+
+main .box10{
+  width:200px;
+  height:200px;
+  background-color:#bad3ff;
+
+}
+
+main .box11{
+  width:200px;
+  height:200px;
+  background-color:#a4c6ff;
+
+}
+
+main .box12{
+  width:200px;
+  height:200px;
+  background-color:#8eb8ff;
+
+}
+footer {
+  width:100%;
+  height:120px;
+  text-align:center;
+  line-height:120px;
+  background-color: #848282;
+}
+
+.footer-text {
+  color: #fff;
+}
